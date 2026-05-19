@@ -1,0 +1,13 @@
+{
+  "status": "completed",
+  "time_left_for_this_task": 600,
+  "per_run_time_limit": 60,
+  "accuracy": 0.2209,
+  "balanced_accuracy": 0.5008957194749318,
+  "precision": 0.19989642672190575,
+  "recall": 0.966933867735471,
+  "f1": 0.3313020341601579,
+  "roc_auc": 0.4996841509105167,
+  "average_precision": 0.20079819324673281,
+  "sprint_statistics": "auto-sklearn results:\n  Dataset name: 8c6368f8-5360-11f1-9111-00155d61ce61\n  Metric: f1\n  Best validation score: 0.333484\n  Number of target algorithm runs: 282\n  Number of successful target algorithm runs: 156\n  Number of crashed target algorithm runs: 87\n  Number of target algorithms that exceeded the time limit: 9\n  Number of target algorithms that exceeded the memory limit: 30\n"
+}

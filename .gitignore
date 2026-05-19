@@ -29,7 +29,7 @@ smac3-output*/
 *.lock
 
 # Local result files
-autosklearn_results*.json
+# autosklearn_results*.json
 *.log
 
 # Local installer downloads
